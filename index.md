@@ -9,7 +9,7 @@ Syntax highlighted code block
 
 # Contact
 
-**Environmental Economics and Sociology**
+**Charles University Prague, Environment Center**
 
 [economics.inaki@gmail.com](mailto:economics.inaki@gmail.com)
 
